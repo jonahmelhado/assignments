@@ -1,10 +1,6 @@
-# NLP_hotel_reviews.ipynb
+# NLP_hotel_reviews/NLP2
 
-Initial analysis of a dataset containing hotel reviews
-
-# NLP2
-
-Continued analysis of the above with sentiment analysis
+Statistical/sentiment analysis of hotel review dataset from kaggle
 
 # Stats_and_Politics_1/2
 
